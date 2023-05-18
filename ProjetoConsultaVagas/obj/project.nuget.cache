@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTB+Ftd1rzi6gAy8l9JMN3Sln+rj+94RGHkgvHUWSrgGH2IDUEuw4HgIB7NUsHdszazBM9FLcNZ5SwLM36cq7w==",
+  "success": true,
+  "projectFilePath": "C:\\scania\\ProjetoConsultaVagas\\ProjetoConsultaVagas\\ProjetoConsultaVagas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sousa\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\sousa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sousa\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\sousa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
